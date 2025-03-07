@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1cb6df8f930c6a10005a3a718bba1083" extends="alm_asset" label="Model" max_length="40" name="x_snc_model_as_a_s_model" type="collection"/>
+</database>
