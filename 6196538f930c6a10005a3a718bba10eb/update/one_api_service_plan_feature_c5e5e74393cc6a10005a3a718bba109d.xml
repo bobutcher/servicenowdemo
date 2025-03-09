@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="one_api_service_plan_feature">
+    <one_api_service_plan_feature action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability_condition/>
+        <applicability_condition_table/>
+        <applicability_script><![CDATA[(function(featureInput, previousFeatureOutputs) {  
+	/* customize condition logic here, return true or false */  
+	return true;
+  })(featureInput, previousFeatureOutputs);]]></applicability_script>
+        <applicability_type>script</applicability_type>
+        <delay_output_processing>false</delay_output_processing>
+        <depends_on/>
+        <error_policy>continue_service_plan_execution</error_policy>
+        <feature display_value="c35bd58293c502104471469f7489180c">c5e5e74393cc6a10005a3a718bba1092</feature>
+        <return_request>false</return_request>
+        <service_plan display_value="___$y$t3m_bu1163r___-c35bd58293c502104471469f7489180c-default">05e5e74393cc6a10005a3a718bba109a</service_plan>
+        <sys_class_name>one_api_service_plan_feature</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-07 21:16:10</sys_created_on>
+        <sys_id>c5e5e74393cc6a10005a3a718bba109d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>___$y$t3m_bu1163r___-c35bd58293c502104471469f7489180c-default: c35bd58293c502104471469f7489180c</sys_name>
+        <sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope>
+        <sys_update_name>one_api_service_plan_feature_c5e5e74393cc6a10005a3a718bba109d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-07 21:16:10</sys_updated_on>
+        <timeout_policy>continue_service_plan_execution</timeout_policy>
+        <timeout_sec>60</timeout_sec>
+    </one_api_service_plan_feature>
+</record_update>

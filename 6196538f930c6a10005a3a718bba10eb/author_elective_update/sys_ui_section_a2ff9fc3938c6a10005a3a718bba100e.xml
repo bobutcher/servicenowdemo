@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Activities" section_id="a2ff9fc3938c6a10005a3a718bba100e" sys_domain="global" table="x_snc_model_as_a_s_model" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:20</sys_created_on>
+            <sys_id>f2ff9fc3938c6a10005a3a718bba100f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_snc_model_as_a_s_model" sys_domain="global" view="Default view">a2ff9fc3938c6a10005a3a718bba100e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:20</sys_created_on>
+            <sys_id>faff9fc3938c6a10005a3a718bba100f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_snc_model_as_a_s_model" sys_domain="global" view="Default view">a2ff9fc3938c6a10005a3a718bba100e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:20</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Activities</caption>
+            <header>false</header>
+            <name>x_snc_model_as_a_s_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a2ff9fc3938c6a10005a3a718bba100e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_model_as_a_s_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope>
+            <sys_update_name>sys_ui_section_a2ff9fc3938c6a10005a3a718bba100e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</application>
+        <file_path/>
+        <instance_id>d2754335ff8cd2d0c80bf8e4fc4fd980</instance_id>
+        <instance_name>demoallwf81766</instance_name>
+        <name>sys_ui_section_a2ff9fc3938c6a10005a3a718bba100e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Activities" section_id="a2ff9fc3938c6a10005a3a718bba100e" sys_domain="global" table="x_snc_model_as_a_s_model" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:20</sys_created_on><sys_id>f2ff9fc3938c6a10005a3a718bba100f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Activities" display_value="Activities" name="x_snc_model_as_a_s_model" sys_domain="global" view="Default view">a2ff9fc3938c6a10005a3a718bba100e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:20</sys_created_on><sys_id>faff9fc3938c6a10005a3a718bba100f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="Activities" display_value="Activities" name="x_snc_model_as_a_s_model" sys_domain="global" view="Default view">a2ff9fc3938c6a10005a3a718bba100e</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:20</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Activities</caption><header>false</header><name>x_snc_model_as_a_s_model</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a2ff9fc3938c6a10005a3a718bba100e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_model_as_a_s_model</sys_name><sys_overrides/><sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package><sys_policy/><sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope><sys_update_name>sys_ui_section_a2ff9fc3938c6a10005a3a718bba100e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:20</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1828476465</payload_hash>
+        <record_name>Model</record_name>
+        <reverted_from/>
+        <source>f85c178b934c6a10005a3a718bba10da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-07 20:50:20</sys_created_on>
+        <sys_id>3eff9fc3938c6a10005a3a718bba1011</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195725f91e90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-07 20:50:20</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>b2ff9fc36a8c6a10c1010b4d0c772e11</update_guid>
+        <update_guid_history>b2ff9fc36a8c6a10c1010b4d0c772e11:1828476465</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-09 02:15:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>05978da2b6a54c029c38e27fa5b5a669</sys_id>
+        <sys_metadata>a2ff9fc3938c6a10005a3a718bba100e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activities</sys_name>
+        <sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package>
+        <sys_parent display_value="">1cb6df8f930c6a10005a3a718bba1083</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope>
+        <sys_scope_delete display_value="">53a9911efd9c459abde53267c09c30f1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_a2ff9fc3938c6a10005a3a718bba100e</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_a2ff9fc3938c6a10005a3a718bba100e">3eff9fc3938c6a10005a3a718bba1011</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-09 02:15:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

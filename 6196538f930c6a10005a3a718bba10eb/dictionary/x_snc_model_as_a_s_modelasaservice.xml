@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2314756b2b00ea104c9afc05e391bf8e" extends="sc_request" label="ModelAsAService" max_length="40" name="x_snc_model_as_a_s_modelasaservice" type="collection"/>
+</database>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Model">7a191347934c6a10005a3a718bba102d</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>ModelAsAServices</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_model_as_a_s_modelasaservice</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_snc_model_as_a_s.modelasaservice_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-07 21:02:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c3b2278b938c6a10005a3a718bba10ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ModelAsAServices</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope>
+        <sys_update_name>sys_app_module_c3b2278b938c6a10005a3a718bba10ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-07 21:02:23</sys_updated_on>
+        <timeline_page/>
+        <title>ModelAsAServices</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</application>
+        <file_path/>
+        <instance_id>d2754335ff8cd2d0c80bf8e4fc4fd980</instance_id>
+        <instance_name>demoallwf81766</instance_name>
+        <name>sys_app_module_c3b2278b938c6a10005a3a718bba10ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Model">7a191347934c6a10005a3a718bba102d</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>ModelAsAServices</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_model_as_a_s_modelasaservice</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_snc_model_as_a_s.modelasaservice_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 21:02:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c3b2278b938c6a10005a3a718bba10ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>ModelAsAServices</sys_name><sys_overrides/><sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package><sys_policy/><sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope><sys_update_name>sys_app_module_c3b2278b938c6a10005a3a718bba10ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 21:02:23</sys_updated_on><timeline_page/><title>ModelAsAServices</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>245497304</payload_hash>
+        <record_name>ModelAsAServices</record_name>
+        <reverted_from/>
+        <source>f85c178b934c6a10005a3a718bba10da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-07 21:02:23</sys_created_on>
+        <sys_id>43b2278b938c6a10005a3a718bba10af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195726a996d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-07 21:02:23</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c3b2278b448c6a10173de48d8f5f78ae</update_guid>
+        <update_guid_history>c3b2278b448c6a10173de48d8f5f78ae:245497304</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="ModelAsAServices">44047d2b2b00ea104c9afc05e391bfbb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-09 02:15:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>15a5070ee88342a2880168f1326663c4</sys_id>
+        <sys_metadata>c3b2278b938c6a10005a3a718bba10ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ModelAsAServices</sys_name>
+        <sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope>
+        <sys_scope_delete display_value="">53a9911efd9c459abde53267c09c30f1</sys_scope_delete>
+        <sys_update_name>sys_app_module_c3b2278b938c6a10005a3a718bba10ac</sys_update_name>
+        <sys_update_version display_value="sys_app_module_c3b2278b938c6a10005a3a718bba10ac">43b2278b938c6a10005a3a718bba10af</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-09 02:15:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

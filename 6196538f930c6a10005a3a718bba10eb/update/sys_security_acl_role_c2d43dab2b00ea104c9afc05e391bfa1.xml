@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-09 02:19:13</sys_created_on>
+        <sys_id>c2d43dab2b00ea104c9afc05e391bfa1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_model_as_a_s_modelasaservice.x_snc_model_as_a_s.modelasaservice_user</sys_name>
+        <sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope>
+        <sys_security_acl display_value="x_snc_model_as_a_s_modelasaservice">f1d43dab2b00ea104c9afc05e391bf72</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c2d43dab2b00ea104c9afc05e391bfa1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-09 02:19:13</sys_updated_on>
+        <sys_user_role display_value="x_snc_model_as_a_s.modelasaservice_user" name="x_snc_model_as_a_s.modelasaservice_user">83b2a34b938c6a10005a3a718bba10b7</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

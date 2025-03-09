@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Contracts" section_id="16ffdbc3938c6a10005a3a718bba10ab" sys_domain="global" table="x_snc_model_as_a_s_model" version="3" view="itam_workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lease_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:19</sys_created_on>
+            <sys_id>16ff5fc3938c6a10005a3a718bba107b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">16ffdbc3938c6a10005a3a718bba10ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>warranty_expiration</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:19</sys_created_on>
+            <sys_id>16ff5fc3938c6a10005a3a718bba107a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">16ffdbc3938c6a10005a3a718bba10ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:19</sys_created_on>
+            <sys_id>1eff5fc3938c6a10005a3a718bba107b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">16ffdbc3938c6a10005a3a718bba10ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>support_group</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:19</sys_created_on>
+            <sys_id>96ff5fc3938c6a10005a3a718bba1079</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">16ffdbc3938c6a10005a3a718bba10ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>supported_by</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:19</sys_created_on>
+            <sys_id>1eff5fc3938c6a10005a3a718bba107a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">16ffdbc3938c6a10005a3a718bba10ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Contracts</caption>
+            <header>false</header>
+            <name>x_snc_model_as_a_s_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>16ffdbc3938c6a10005a3a718bba10ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_model_as_a_s_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope>
+            <sys_update_name>sys_ui_section_16ffdbc3938c6a10005a3a718bba10ab</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:19</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</application>
+        <file_path/>
+        <instance_id>d2754335ff8cd2d0c80bf8e4fc4fd980</instance_id>
+        <instance_name>demoallwf81766</instance_name>
+        <name>sys_ui_section_16ffdbc3938c6a10005a3a718bba10ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Contracts" section_id="16ffdbc3938c6a10005a3a718bba10ab" sys_domain="global" table="x_snc_model_as_a_s_model" version="3" view="itam_workspace"><sys_ui_element action="INSERT_OR_UPDATE"><element>lease_id</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:19</sys_created_on><sys_id>16ff5fc3938c6a10005a3a718bba107b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">16ffdbc3938c6a10005a3a718bba10ab</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>warranty_expiration</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:19</sys_created_on><sys_id>16ff5fc3938c6a10005a3a718bba107a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">16ffdbc3938c6a10005a3a718bba10ab</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:19</sys_created_on><sys_id>1eff5fc3938c6a10005a3a718bba107b</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">16ffdbc3938c6a10005a3a718bba10ab</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:19</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>support_group</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:19</sys_created_on><sys_id>96ff5fc3938c6a10005a3a718bba1079</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">16ffdbc3938c6a10005a3a718bba10ab</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>supported_by</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:19</sys_created_on><sys_id>1eff5fc3938c6a10005a3a718bba107a</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Contracts" display_value="Contracts" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">16ffdbc3938c6a10005a3a718bba10ab</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Contracts</caption><header>false</header><name>x_snc_model_as_a_s_model</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>16ffdbc3938c6a10005a3a718bba10ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_model_as_a_s_model</sys_name><sys_overrides/><sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package><sys_policy/><sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope><sys_update_name>sys_ui_section_16ffdbc3938c6a10005a3a718bba10ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:19</sys_updated_on><sys_user/><title>false</title><view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1980232798</payload_hash>
+        <record_name>Model</record_name>
+        <reverted_from/>
+        <source>f85c178b934c6a10005a3a718bba10da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-07 20:50:19</sys_created_on>
+        <sys_id>d2ff5fc3938c6a10005a3a718bba107e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195725f8d840000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-07 20:50:19</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>5aff5fc32b8c6a1031f3043d75f9df7d</update_guid>
+        <update_guid_history>5aff5fc32b8c6a1031f3043d75f9df7d:1980232798</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-09 02:15:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>5c59e44c62e5437e8e468133a3407fe4</sys_id>
+        <sys_metadata>16ffdbc3938c6a10005a3a718bba10ab</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contracts</sys_name>
+        <sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package>
+        <sys_parent display_value="">1cb6df8f930c6a10005a3a718bba1083</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope>
+        <sys_scope_delete display_value="">53a9911efd9c459abde53267c09c30f1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_16ffdbc3938c6a10005a3a718bba10ab</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_16ffdbc3938c6a10005a3a718bba10ab">d2ff5fc3938c6a10005a3a718bba107e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-09 02:15:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

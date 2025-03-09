@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Activities" section_id="6eff5fc3938c6a10005a3a718bba10b9" sys_domain="global" table="x_snc_model_as_a_s_model" version="3" view="itam_workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:20</sys_created_on>
+            <sys_id>a6ff5fc3938c6a10005a3a718bba10bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">6eff5fc3938c6a10005a3a718bba10b9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:20</sys_created_on>
+            <sys_id>aeff5fc3938c6a10005a3a718bba10ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">6eff5fc3938c6a10005a3a718bba10b9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:20</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>Activities</caption>
+            <header>false</header>
+            <name>x_snc_model_as_a_s_model</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-03-07 20:50:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6eff5fc3938c6a10005a3a718bba10b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_model_as_a_s_model</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope>
+            <sys_update_name>sys_ui_section_6eff5fc3938c6a10005a3a718bba10b9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-03-07 20:50:20</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</application>
+        <file_path/>
+        <instance_id>d2754335ff8cd2d0c80bf8e4fc4fd980</instance_id>
+        <instance_name>demoallwf81766</instance_name>
+        <name>sys_ui_section_6eff5fc3938c6a10005a3a718bba10b9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Activities" section_id="6eff5fc3938c6a10005a3a718bba10b9" sys_domain="global" table="x_snc_model_as_a_s_model" version="3" view="itam_workspace"><sys_ui_element action="INSERT_OR_UPDATE"><element>work_notes</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:20</sys_created_on><sys_id>a6ff5fc3938c6a10005a3a718bba10bb</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Activities" display_value="Activities" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">6eff5fc3938c6a10005a3a718bba10b9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:20</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>activity.xml</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:20</sys_created_on><sys_id>aeff5fc3938c6a10005a3a718bba10ba</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter><sys_ui_section caption="Activities" display_value="Activities" name="x_snc_model_as_a_s_model" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">6eff5fc3938c6a10005a3a718bba10b9</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:20</sys_updated_on><sys_user/><type>formatter</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Activities</caption><header>false</header><name>x_snc_model_as_a_s_model</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-07 20:50:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6eff5fc3938c6a10005a3a718bba10b9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_model_as_a_s_model</sys_name><sys_overrides/><sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package><sys_policy/><sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope><sys_update_name>sys_ui_section_6eff5fc3938c6a10005a3a718bba10b9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-07 20:50:20</sys_updated_on><sys_user/><title>false</title><view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-135811142</payload_hash>
+        <record_name>Model</record_name>
+        <reverted_from/>
+        <source>f85c178b934c6a10005a3a718bba10da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-07 20:50:20</sys_created_on>
+        <sys_id>2aff5fc3938c6a10005a3a718bba10bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195725f8f480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-07 20:50:20</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>aeff5fc37a8c6a10546c93b29390cabc</update_guid>
+        <update_guid_history>aeff5fc37a8c6a10546c93b29390cabc:-135811142</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-09 02:15:51</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>a3264e1ae8ad407abe068b1e7ea72e29</sys_id>
+        <sys_metadata>6eff5fc3938c6a10005a3a718bba10b9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Activities</sys_name>
+        <sys_package display_value="Model as a Service" source="x_snc_model_as_a_s">6196538f930c6a10005a3a718bba10eb</sys_package>
+        <sys_parent display_value="">1cb6df8f930c6a10005a3a718bba1083</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Model as a Service">6196538f930c6a10005a3a718bba10eb</sys_scope>
+        <sys_scope_delete display_value="">53a9911efd9c459abde53267c09c30f1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_6eff5fc3938c6a10005a3a718bba10b9</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_6eff5fc3938c6a10005a3a718bba10b9">2aff5fc3938c6a10005a3a718bba10bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-09 02:15:51</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
